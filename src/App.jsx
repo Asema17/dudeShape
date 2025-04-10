@@ -1,5 +1,5 @@
 import { Header } from "./components/header/Header"
-import { Intro } from "./components/intro/intro"
+import { Intro2 } from "./components/intro/Intro2"
 
 function App() {
  
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Header />
-    <Intro />
+    <Intro2/>
     </>
   )
 }
